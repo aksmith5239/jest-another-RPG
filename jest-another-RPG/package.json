@@ -1,0 +1,22 @@
+{
+  "name": "jest-another-rpg",
+  "version": "1.0.0",
+  "description": "Object Oriented RPG",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/aksmith5239/jest-another-RPG.git"
+  },
+  "author": "Allison K. Smith",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aksmith5239/jest-another-RPG/issues"
+  },
+  "homepage": "https://github.com/aksmith5239/jest-another-RPG#readme",
+  "devDependencies": {
+    "jest": "^26.4.2"
+  }
+}
